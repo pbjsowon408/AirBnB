@@ -8,4 +8,4 @@ pipenv --three
 
 pipenv shell
 
-pipenv install Django==3.0.7 (or Django==2.2.5)
+pipenv install Django==2.2.5 (the same as npm of package.json)
