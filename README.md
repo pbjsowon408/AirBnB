@@ -13,3 +13,9 @@ pipenv --three
 pipenv shell
 
 pipenv install Django==2.2.5 (the same as npm of package.json)
+
+
+git init
+git remote add origin https://github.com/pbjsowon408/AirBnB
+git add .
+type nul > .gitignore (touch .gitignore)
