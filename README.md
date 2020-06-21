@@ -21,4 +21,4 @@ git remote add origin https://github.com/pbjsowon408/AirBnB
 git add .
 type nul > .gitignore (touch .gitignore)
 
-
+django-admin startproject config // rename first config folder as Aconfig, drag config folder and files that were inside to outside. Remove Aconfig folder
