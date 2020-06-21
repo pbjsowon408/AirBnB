@@ -25,3 +25,6 @@ django-admin startproject config // rename first config folder as Aconfig, drag 
 
 pipenv install flake8 --dev
 pipenv install black --dev --pre
+
+--------------------------------------------
+python manage.py runserver // running the server
