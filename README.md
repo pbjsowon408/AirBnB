@@ -27,4 +27,20 @@ pipenv install flake8 --dev
 pipenv install black --dev --pre
 
 --------------------------------------------
-python manage.py runserver // running the server
+python manage.py runserver // running the server. Always have to runserver to run Django server
+
+python manage.py migrate // when shape of the data changes, create, apply , and update migration. Which will synchronize with the DB
+
+python manage.py createsuperuser // create superuser
+
+---------------------------------------------
+
+django-admin startapp (application name) // application name should be plural. ex)room X   |   rooms O
+
+django-admin startapp rooms // search rooms
+django-admin startapp users // log-in log-out  (such as login as facbook)
+django-admin startapp reviews // leave a review
+django-admin startapp conversations // Talk to the people
+django-admin startapp lists // make a list of the liked rooms
+django-admin startapp reservations // view reservations
+
