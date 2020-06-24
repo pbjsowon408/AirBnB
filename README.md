@@ -1,6 +1,36 @@
 # AirBnB
 Clone Project
+-----------------------------------------------------------
+Front-End : HTML, CSS, VanillaJS, Tailwind CSS, GULP
+Back-End  : Python, Django, AWS, Heroku (for distribution)
 
+<Features>
+User Registration / Profile
+Social Authentication
+Superuser Admin Panel
+Host Admin Panel
+Guest Dashboard
+2-way Review System
+Bookin and Reservation System
+Direct Messaging
+Room CRUD
+Notification Email
+Ajax Searching
+  
+<Technologies>
+Python
+Django
+HTML5
+Tailwind CSS
+GULP
+ES6
+Google Maps
+Twilio
+Mailgun
+Boto
+Heroku & AWS S3
+  
+--------------------------------------
 
 //Make bubble
 
@@ -45,3 +75,4 @@ django-admin startapp lists // make a list of the liked rooms
 django-admin startapp reservations // view reservations
 
 ---------------------------------------------------------
+
