@@ -1,8 +1,9 @@
 # AirBnB
 Clone Project
 -----------------------------------------------------------
-Front-End : HTML, CSS, VanillaJS, Tailwind CSS, GULP
-Back-End  : Python, Django, AWS, Heroku (for distribution)
+Front-End   : HTML, CSS, VanillaJS, Tailwind CSS, GULP
+Back-End    : Python, Django, AWS, Heroku (for distribution)
+Environment : Visual Studio Code, Git
 
 <Features>
 User Registration / Profile
