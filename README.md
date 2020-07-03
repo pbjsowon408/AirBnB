@@ -77,3 +77,4 @@ django-admin startapp reservations // view reservations
 
 ---------------------------------------------------------
 
+pipenv install Pillow  // to use image file in db
