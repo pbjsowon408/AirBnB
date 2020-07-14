@@ -78,3 +78,20 @@ django-admin startapp reservations // view reservations
 ---------------------------------------------------------
 
 pipenv install Pillow  // to use image file in db
+
+
+*important (in config/settings)
+DJANGO_APPS = [
+    "django.contrib.admin",
+    "django.contrib.auth",
+    "django.contrib.contenttypes",
+    "django.contrib.sessions",
+    "django.contrib.messages",
+    "django.contrib.staticfiles",
+]
+
+PROJECT_APPS = [
+    "users.apps.UsersConfig",
+]
+
+INSTALLED_APPS = DJANGO_APPS + PROJECT_APPS
