@@ -32,7 +32,13 @@ Boto
 Heroku & AWS S3
   
 --------------------------------------
+*Tip how to import
+1.import Python package
+2.import everything related in Django
+3.import Third-Party packages
+4.import custom packages
 
+-----------------------------------------
 //Make bubble
 
 pip3 install --user pipenv
