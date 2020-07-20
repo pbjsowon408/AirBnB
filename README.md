@@ -39,6 +39,7 @@ Heroku & AWS S3
 4.import custom packages
 
 -----------------------------------------
+(For now, I am just documenting every core steps for building AirBnB clone project while coding as well.)
 //Make bubble
 
 pip3 install --user pipenv
